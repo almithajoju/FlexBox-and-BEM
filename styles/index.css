@@ -27,6 +27,7 @@ body {
 .card {
     background-color: #9D0208;;
     border-radius: 4px;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 .first , .second , .third{
@@ -39,5 +40,15 @@ body {
 
 .first{
     margin-left: 19px;
+}
 
+.fourth , .fifth , .sixth{
+    width: 78px;
+    height: 78px;
+    margin-right: 20px;
+    margin-top: 41px;
+}
+
+.fourth{
+    margin-left: 174px;
 }
