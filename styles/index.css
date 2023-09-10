@@ -126,3 +126,32 @@ body {
 .box-6{
     visibility: hidden;
 }
+
+.circle-1 , .circle-2 , .circle-3 , .circle-4 , .circle-5 , .circle-6 {
+    margin-left: 20px;
+    margin-top:  20px;
+    
+}
+
+
+.box-1 .circle-6{
+    visibility: hidden;
+}
+
+/* .box-2{
+    align-items: center;
+    justify-content: space-around;
+} */
+
+.box-3{
+    flex-direction: row-reverse;
+}
+
+/* .box-3  .circle-1{
+    visibility: hidden;
+}
+
+.box-4{
+    align-items: center; 
+    justify-content: center;
+} */
