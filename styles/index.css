@@ -30,25 +30,28 @@ body {
     box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
-.first , .second , .third{
+.first , .second , .third , .fourth , .fifth , .sixth{
     width: 78px;
     height: 78px;
     margin-right: 20px;
-    margin-top: 63px;
-    margin-bottom: 19px;
     
+}
+
+.first , .second , .third{
+    margin-top: 63px;
+    margin-bottom: 19px; 
 }
 
 .first{
     margin-left: 19px;
 }
 
-.rectangle-2{
+.rectangle-2 {
     justify-content: end;
     align-items: center;
 }
 
-.seventh , .ninth {
+.seventh , .ninth , .tenth , .eveleth , .twelfth{
     width: 78px;
     height: 120px;
 }
@@ -56,10 +59,20 @@ body {
 .eighth{
     width: 78px;
     height: 64px;
-}
+   }
+
 .rectangle-3{
     align-items: center;
     justify-content: space-around;
 }
 
+.eveleth{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.rectangle-4{
+    justify-content: center;
+    align-items: center;
+}
 
